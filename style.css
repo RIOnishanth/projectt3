@@ -1,0 +1,11 @@
+th{
+    width:fit-content;
+    border: 1px solid lightgreen;
+    background-color: lightgreen ;
+}
+video{
+    width:fit-content
+}
+body{
+    background-color: rgb(113, 153, 240);
+}
